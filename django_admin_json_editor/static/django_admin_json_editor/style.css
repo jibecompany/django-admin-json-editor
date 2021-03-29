@@ -14,3 +14,7 @@ div.sceditor-container {
 ul li {
     list-style-type: none;
 }
+
+.js-inline-admin-formset fieldset.module {
+    box-sizing: content-box;
+}
